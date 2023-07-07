@@ -6,4 +6,4 @@ With XIAO Esp32-camera module we can get the photos directly on telegram over in
 In this tutorial we will set up a server for Esp32 camera and then implement the same with telegram bot. Using server the access is limited within Wi-Fi range but with telegram we can get the images over internet.
 
 Get more info on my instrucatbles:
-My hackster:
+My hackster: https://www.hackster.io/sainisagar7294/sharing-esp32s3-cam-pictures-on-telegram-dda483
